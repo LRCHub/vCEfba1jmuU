@@ -1,0 +1,50 @@
+# ONE OK ROCK – Taking Off
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:29.55] Stuck in the same routine
+[00:31.64] Living an empty dream
+[00:33.70] When am I gonna wake up
+[00:37.99] Thought we had it right
+[00:40.12] Now it's an endless night
+[00:42.38] Where is it gonna take us
+[00:54.88] 
+[00:46.35] Realizing, everything I love is slowly killing me
+[01:10.85] 
+[00:53.52] I know I know
+[00:55.31] We're taking off together
+[00:59.52] Even though we always crash and burn
+[01:03.59] Tonight you and I will fall from the sky
+[01:07.87] Drag me all the way to hell
+[01:10.75] 'Cause I'm never gonna let it go
+[01:26.75] 
+[01:16.84] 音もたてず崩れ落ちた
+[01:20.61] 視界から消える
+[01:25.35] 狂う秒針
+[01:27.30] 巻き戻す
+[01:29.78] 取り戻せない何かがある
+[01:35.28] 
+[01:33.56] Realizing, everything I love is slowly killing me
+[01:58.06] 
+[01:40.68] I know I know
+[01:42.64] We're taking off together
+[01:46.68] Even though we always crash and burn
+[01:50.62] Tonight you and I will fall from the sky
+[01:55.05] Drag me all the way to hell
+[01:57.96] 'Cause I'm never gonna let it go
+[02:13.96] 
+[02:24.71] Don't lie, you know everything you do is killing me
+[02:50.21] 
+[02:32.05] I know I know
+[02:33.95] We're taking off together
+[02:37.93] Even though we always crash and burn
+[02:41.98] Tonight you and I will fall from the sky
+[02:46.24] Drag me all the way to hell
+[02:59.74] 
+[02:50.49] We're taking off together
+[02:55.02] Even though we always crash and burn
+[02:59.34] Tonight you and I will fall from the sky
+[03:03.68] Drag me all the way to hell
+[03:06.45] 'Cause I'm never gonna let it go
+```
