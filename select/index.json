@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Taking Off",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T16:50:18.379950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "Beach Fossils",
+      "has_synced": true,
+      "path": "select/01_Taking_Off_Beach_Fossils.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/02_Taking_Off_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/03_Taking_Off_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Taking_Off_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Taking_Off_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Taking_Off_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Watched You Taking Off",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/07_I_Watched_You_Taking_Off_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Taking Off the Edge",
+      "artist": "John Michael Montgomery",
+      "has_synced": false,
+      "path": "select/08_Taking_Off_the_Edge_John_Michael_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "Highly Suspect",
+      "has_synced": true,
+      "path": "select/09_Taking_Off_Highly_Suspect.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "Clipping.",
+      "has_synced": true,
+      "path": "select/10_Taking_Off_Clipping..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "Black Gryph0n feat. Baasik",
+      "has_synced": true,
+      "path": "select/11_Taking_Off_Black_Gryph0n_feat._Baasik.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "Black Gryph0n/Baasik",
+      "has_synced": true,
+      "path": "select/12_Taking_Off_Black_Gryph0n_Baasik.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/13_Taking_Off_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "Black Gryph0n",
+      "has_synced": true,
+      "path": "select/14_Taking_Off_Black_Gryph0n.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "Andrew Kamen",
+      "has_synced": true,
+      "path": "select/15_Taking_Off_Andrew_Kamen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Taking Off",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/16_Taking_Off_The_Cure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Taking Off",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Taking_Off_ONE_OK_ROCK.txt"
+    }
+  ]
+}
